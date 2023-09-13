@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Ghadah AlMuhaideb, a QA analyst. I live for problem-solving and love exploring new challenges and opportunities.
+I am Ghadah AlMuhaideb, a data engineer. I live for problem-solving and love exploring new challenges and opportunities.
 
 <!--
 **GMuhaideb/GMuhaideb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
