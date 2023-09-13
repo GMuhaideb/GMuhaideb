@@ -16,8 +16,6 @@ I am Ghadah AlMuhaideb, a data engineer. I live for problem-solving and love exp
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=white)
 ![Fortinet](https://img.shields.io/badge/-Fortinet-007396?style=flat)
