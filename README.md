@@ -1,7 +1,5 @@
 ### Hi there 👋
-
-I am Ghadah AlMuhaideb, a data engineer. I live for problem-solving and love exploring new challenges and opportunities.
-
+I'm Ghadah AlMuhaideb, a seasoned Data Engineer with an unwavering passion for unraveling intricate problems. My enthusiasm lies not just in finding solutions, but in the journey of discovery through new challenges and opportunities that data presents. Every dataset is a new story waiting to be told, and I'm here to narrate it.
 <!--
 **GMuhaideb/GMuhaideb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
