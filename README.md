@@ -1,12 +1,12 @@
 ### Hi there 👋
-I'm Ghadah AlMuhaideb, a seasoned Data Engineer with an unwavering passion for unraveling intricate problems. My enthusiasm lies not just in finding solutions, but in the journey of discovery through new challenges and opportunities that data presents. Every dataset is a new story waiting to be told, and I'm here to narrate it.
+
 <!--
 **GMuhaideb/GMuhaideb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 ### Connect with me:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ghadah-almuhaideb)  
-📧 Email: g.muhaideb@gmail.com  
+📧 Email:   
 
 
 ### Technical Skills:
